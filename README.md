@@ -1,9 +1,9 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=zurcacielos)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m @zurcacielos
 
 - 👀 I’m interested in Anything Software
 
-- 🌱 I’m currently certifying Azure/.NET
-
-- 💞️ I’m looking to collaborate on Anything Pets
+- 💞️ I’m looking to collaborate on Anything Pets 🐶 and Ecology 🌱
 
 

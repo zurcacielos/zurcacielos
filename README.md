@@ -6,7 +6,7 @@
 
 </a>
 
-[![user:1060654's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/1060654?theme=default&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+[![user:1060654's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/1060654?theme=default&website=true&location=true)](https://stackoverflow.com/users/1060654/zurcacielos)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zurcacielos&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 

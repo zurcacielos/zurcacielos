@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zurcacielos&langs_count=8&layout=compact)
 
-As a mystical software developer, I harness the power of technology to conjure forth solutions to even the most complex of problems. With each line of code, I weave a spell of logic and reason and coffee making, tapping into the flow of information that connects us all.
+As a mystical software developer, I harness the power of technology to conjure forth solutions to even the most complex of problems. With each line of code, I weave a spell of logic and reason and coffee making, tapping into the flow of information that connects us all... the fibers of the universe... and the ISP.
 
 I am not just a programmer, I'm much more than a pretty face, I am a wizard of the digital arts. I speak in a language that few can comprehend (and most prefer to avoid for good reasons) using arcane jargon and obscure acronyms to communicate with my fellow wizards.
 
